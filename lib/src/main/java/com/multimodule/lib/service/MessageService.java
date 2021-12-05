@@ -1,4 +1,4 @@
-package com.lib.service;
+package com.multimodule.lib.service;
 
 
 import lombok.RequiredArgsConstructor;

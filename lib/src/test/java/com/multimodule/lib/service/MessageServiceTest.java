@@ -1,4 +1,4 @@
-package com.lib.service;
+package com.multimodule.lib.service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
